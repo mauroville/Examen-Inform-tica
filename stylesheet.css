@@ -1,0 +1,12 @@
+#main_menu {
+	text-align: center;
+	float: center;
+	padding: 25px 0px 25px 0px;
+	background-color: black;
+	color: white;
+	
+}
+
+li {
+	display: inline-block;
+}

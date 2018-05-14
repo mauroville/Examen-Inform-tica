@@ -10,3 +10,28 @@
 li {
 	display: inline-block;
 }
+
+.center {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	padding: 20px;	
+}
+	
+
+
+.izquierda {	
+	padding: 20px;
+	float: left:
+}
+
+.centro {
+	margin-right: 50px;
+	margin-left: 50px; 
+}
+
+.derecha {
+	padding: 20px;
+	float:right;
+}
